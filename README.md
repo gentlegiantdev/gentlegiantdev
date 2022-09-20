@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gentlegiantdev" target="blank"><img src="https://img.shields.io/twitter/follow/gentlegiantdev?logo=twitter&style=for-the-badge" alt="gentlegiantdev" /></a> </p>
 
-- 🔭 I’m currently working on **Noodle'n**
+- 🔭 I’m currently working on **Noodle'n** and **UPPscape** 
 
 - 👨‍💻 All of my projects are available at [ericjakobsen.com](ericjakobsen.com)
 
