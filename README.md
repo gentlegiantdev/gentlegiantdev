@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UPPscape** 
 
-- 👨‍💻 All of my projects are available at [ericjakobsen.com](https://gentlegiant.dev)
+- 👨‍💻 All of my projects are available at [gentlegiant.dev](https://gentlegiant.dev)
 
 - 📝 I regularly write articles on [https://gentlegiantdev.hashnode.dev/](https://gentlegiantdev.hashnode.dev/)
 
